@@ -1,0 +1,34 @@
+
+[
+    {
+        "product_name": "bag",
+        "product_price": 20,
+        "product_dec": "",
+        "product_category": "bag"
+    }
+    ,
+    {
+        "product_name": "bag",
+        "product_price": 20,
+        "product_dec": "",
+        "product_category": "bag"
+    },
+    {
+        "product_name": "bag",
+        "product_price": 20,
+        "product_dec": "",
+        "product_category": "bag"
+    },
+    {
+        "product_name": "bag",
+        "product_price": 20,
+        "product_dec": "",
+        "product_category": "bag"
+    },
+    {
+        "product_name": "bag",
+        "product_price": 20,
+        "product_dec": "",
+        "product_category": "bag"
+    }  
+]
